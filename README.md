@@ -9,29 +9,31 @@
 
 - Major languages: JavaScript
 - Frameworks: ES6
-- Technologies used: Linters/ Jest
+- Technologies used: Linters/ Jest/ npm
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+run the tests using Jest to check if all functions code is up and running without errors.
 
 ### Prerequisites
+JavaScript/ npm/ Jest.
 
 ### Setup
+install npm and Jest.
 
 ### Install
+on destination folder terminal run:
+npm init -y
+npm install --save-dev ts-jest
 
 ### Usage
+check your functions for error when used by other devs.
 
 ### Run tests
+npm test
 
 ### Deployment
-
-
+VS Code
+Atom
 
 ## Authors
 
