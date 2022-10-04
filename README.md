@@ -1,20 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Jest-Practice
 
-> Description the project.
+> A JavaScript unit test Project using Jest.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Major languages: JavaScript
+- Frameworks: ES6
+- Technologies used: Linters/ Jest
 
 ## Getting Started
 
@@ -40,17 +35,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Khaled Al-Khateeb**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Khaled-AlKhateeb)
+- Twitter: [@twitterhandle](https://twitter.com/KhaledA93751489)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
 
 ## 🤝 Contributing
 
